@@ -33,7 +33,7 @@ Check out the live demo [here](https://spotify-vignesh.vercel.app/).
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/codewithbalaji/spotify-clone.git
+    git clone https://github.com/vicky-dev-2024/spotify-clone.git
     ```
 2. Navigate to the project directory:
     ```sh
